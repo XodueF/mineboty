@@ -1,9 +1,9 @@
 {
- "ip": "Your_minecraft_server_ip_here",
- "port": "Your_server_port_here",
- "name": "Your_bot_name_here",
+ "ip": "Peoplesmp.mc-srv.com",
+ "port": "26667",
+ "name": "BotBlue4GT",
  "auto-night-skip": "false",
- "loginmsg": "Your_Login_message_here",
+ "loginmsg": "Bot Baru Nih Bosss",
  "prefix": "!",
  "version": "1.17.1"
 }
